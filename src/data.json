@@ -1,33 +1,147 @@
 {
   "pccomponentes": {
-    "email": "amador@gmail.com",
-    "password": "mariscosrecio",
+    "email": "",
+    "password": "",
     "items": [
-      {
-        "link": "https://www.pccomponentes.com/xiaomi-mi-computer-monitor-light-bar?gclid=Cj0KCQiAhP2BBhDdARIsAJEzXlFGPt39wcTtyjo0deaBkYmMFp7w0uHrSrSwFlMSCJzVJIUCZZYrQs0aAvfzEALw_wcB&",
-        "maxPrice": 3000
-      }
-    ]
-  },
-  "coolmod": {
-    "email": "amador@gmail.com",
-    "password": "mariscosrecio",
-    "items": [
-      {
-        "link": "https://www.coolmod.com/gigabyte-g32qc-32-gaming-165hz-2k-freesync-g-sync-compatible-curvo-monitor-precio",
-        "maxPrice": 3000
-      }
-    ]
-  },
-  "ldlc": {
-    "email": "amador@gmail.com",
-    "password": "mariscosrecio",
-    "items": [
-      {
-        "link": "https://www.ldlc.com/es-es/ficha/PB00410146.html",
-        "maxPrice": 3000
-      }
-    ]
+		{
+		  "link":
+			"https://www.pccomponentes.com/gigabyte-geforce-rtx-3070-gaming-oc-8gb-gddr6-reacondicionado",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/gigabyte-geforce-rtx-3070-eagle-oc-8gb-gddr6-reacondicionado",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/asus-rog-strix-gaming-geforce-rtx-3070-oc-8gb-gddr6-reacondicionado",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/msi-geforce-rtx-3070-suprim-8gb-gddr6-reacondicionado",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/gigabyte-geforce-rtx-3070-eagle-8gb-gddr6-reacondicionado",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/msi-geforce-rtx-3070-gaming-x-trio-8gb-gddr6-reacondicionado",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/gigabyte-geforce-rtx-3080-gaming-oc-10g-10gb-gddr6x-reacondicionado",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/gigabyte-aorus-geforce-rtx-3080-master-10gb-gddr6x-reacondicionado",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/asus-tuf-geforce-rtx-3080-oc-10gb-gddr6x-reacondicionado",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/gigabyte-geforce-rtx-3080-eagle-10gb-gddr6x-reacondicionado",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/gigabyte-geforce-rtx-3080-eagle-oc-10g-10gb-gddr6x-reacondicionado",
+		  "maxPrice": 1000
+		},{
+		  "link":
+			"https://www.pccomponentes.com/msi-geforce-rtx-3080-gaming-x-trio-10gb-gddr6x-reacondicionado",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/asus-rog-strix-geforce-rtx-3080-10g-gaming-oc-10gb-gddr6x-reacondicionado",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/msi-geforce-rtx-3080-suprim-x-10gb-gddr6x-reacondicionado",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/msi-geforce-rtx-3080-gaming-x-trio-10gb-gddr6x",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/asus-rog-strix-geforce-rtx-3080-gaming-10gb-gddr6x",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/gigabyte-aorus-geforce-rtx-3080-master-10gb-gddr6x",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/gigabyte-geforce-rtx-3080-gaming-oc-10g-10gb-gddr6x",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/asus-rog-strix-geforce-rtx-3080-10g-gaming-oc-10gb-gddr6x",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/msi-geforce-rtx-3080-ventus-3x-oc-10gb-gddr6x",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/gigabyte-geforce-rtx-3070-gaming-oc-8gb-gddr6",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/asus-geforce-rtx-3070-dual-8gb-gddr6",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/gigabyte-geforce-rtx-3070-eagle-oc-8gb-gddr6",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/msi-geforce-rtx-3070-suprim-8gb-gddr6",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/asus-rog-strix-gaming-geforce-rtx-3070-oc-8gb-gddr6",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/msi-geforce-rtx-3070-gaming-x-trio-8gb-gddr6",
+		  "maxPrice": 1000
+		},
+		{
+		  "link":
+			"https://www.pccomponentes.com/msi-geforce-rtx-3070-ventus-3x-oc-8gb-gddr6",
+		  "maxPrice": 1000
+		},
+		{
+		  "link": "https://www.pccomponentes.com/msi-geforce-rtx-3070-suprim-x-8gb-gddr6",
+		  "maxPrice": 1000
+		}
+	]
   },
   "onlyOneBuy": true,
   "debug": false,
